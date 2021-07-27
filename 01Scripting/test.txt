@@ -1,1 +1,2 @@
-vi test.txt
+Hello Revature classmates!
+This line was added by Ashlie Nguyen :)
