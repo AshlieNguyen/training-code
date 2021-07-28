@@ -1,1 +1,6 @@
 this is a line in file 2 added by Ashlie
+Hello World!! This is Day 2.
+Next, Day 3.
+Again, Day 4.
+Again,Day 5.
+Hello, I'm happy.
